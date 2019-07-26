@@ -20,6 +20,5 @@ If you use PCLNet, please cite the following paper:
   title     = {Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM},
   booktitle = {Proceedings of IEEE International Conference on Multimedia and Expo(ICME)},
   year      = {2019},
-  groups    = {MyPapers},
 }
 ```
