@@ -1,10 +1,9 @@
 # PCLNet
 
 ## Introduction
- This repo contains the source code of the paper:
+ This repo contains source code for the paper:
 
-Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM.
-*In Proceedings of IEEE International Conference on Multimedia and Expo(ICME). 2019.*
+> Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. *In Proceedings of IEEE International Conference on Multimedia and Expo(ICME). 2019.*
 
 ## Framework
 
