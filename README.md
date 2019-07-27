@@ -1,6 +1,4 @@
 # PCLNet
-
-## Introduction
  This repo contains source code for the paper:
 
 > Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM. *In Proceedings of IEEE International Conference on Multimedia and Expo(ICME). 2019.*
@@ -10,8 +8,12 @@
 ![](network.png)
 
 
+## Acknowledgement
+The implementation for Mean Structural Similarity (MSSIM) metric [(models/ssim_module.py)](models/ssim_module.py) is derived from: [https://github.com/Po-Hsun-Su/pytorch-ssim.git](https://github.com/Po-Hsun-Su/pytorch-ssim.git)
 
 
+
+## Citations
 If you use PCLNet, please cite the following paper: 
 ```
 @InProceedings{PCLNet-icme2019,
